@@ -67,3 +67,7 @@ Une fois téléchargé, placez le fichier deseas_Prediction_Images_Classificatio
 streamlit run app.py
 ````
 
+5. le lien de Google Drive
+   le lien : https://drive.google.com/drive/folders/1PS_jSleMmVYBiFjBvqKzbdw2Edin-5Fr?usp=sharing
+   ![Google Drive répot](https://github.com/user-attachments/assets/c4b52474-6658-4b23-93bd-cd00f2ee007e)
+
