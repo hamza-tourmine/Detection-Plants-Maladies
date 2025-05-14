@@ -55,12 +55,14 @@ cd Detection-Plants-Maladies
 ```bash
 pip install -r requirements.txt
 ```
-3. Télecharger le fichier le model sur Mon Google drive
- - le fichier deseas_Predction_Images_Classification_CNN.keras et plus de 100 .M ce size on peux pas push dans le git hub parceque le max size de répot est 100M
- le line c'est [https://drive.google.com/file/d/1S5gN-NDccFJZxu_lNhsUC_r-Q2TxUSb3/view?usp=drive_link]
-  deseas_Predction_Images_Classification_CNN.keras
+3. Télécharger le modèle entraîné :
+Le fichier du modèle deseas_Prediction_Images_Classification_CNN.keras (taille > 100 Mo) ne peut pas être hébergé sur GitHub à cause de la limite de 100 Mo. Vous pouvez le télécharger via le lien suivant :
 
-3. Lancez l'application :
+🔗 [https://drive.google.com/file/d/1S5gN-NDccFJZxu_lNhsUC_r-Q2TxUSb3/view?usp=sharing]
+
+Une fois téléchargé, placez le fichier deseas_Prediction_Images_Classification_CNN.keras dans le répertoire racine du projet (au même niveau que app.py).
+
+4. Lancez l'application :
 ```bash
 streamlit run app.py
 ````
