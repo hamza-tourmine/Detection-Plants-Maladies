@@ -1,0 +1,11 @@
+# Ne pas inclure les environnements virtuels
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# egnore les fichiers qui containe des extensions .keras
+*.keras
+
+
