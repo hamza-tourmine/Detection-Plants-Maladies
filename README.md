@@ -50,7 +50,14 @@ Le modèle utilisé est un **CNN (Convolutional Neural Network)** entraîné sur
 git clone https://github.com/hamza-tourmine/Detection-Plants-Maladies.git
 cd Detection-Plants-Maladies
 ```
-
+1.2 Créer un environnement virtuel 
+```bash
+python -m venv env
+```
+1.3 Activer l’environnement virtuel :
+```bash
+.\env\Scripts\activate
+```
 2. Installez les dépendances :
 ```bash
 pip install -r requirements.txt
@@ -70,7 +77,7 @@ streamlit run app.py
 5. le lien de Google Drive
    le lien : https://drive.google.com/drive/folders/1PS_jSleMmVYBiFjBvqKzbdw2Edin-5Fr?usp=sharing
    ![Google Drive répot](https://github.com/user-attachments/assets/c4b52474-6658-4b23-93bd-cd00f2ee007e)
-6. Ce fichier 'projet-v01' contient des dépendances. Vous devez simplement exécuter la commande suivante :
+6.⚠️ ⚠️ ⚠️ Ce fichier 'projet-v01' contient des dépendances. Vous devez simplement exécuter la commande suivante : ⚠️ ⚠️ ⚠️
      ![projet avec des pendences](https://github.com/user-attachments/assets/ea68bea8-1c12-4963-8399-c2379882bf51)
    ```bash
    streamlit run app.py
