@@ -78,6 +78,7 @@ streamlit run app.py
    le lien : https://drive.google.com/drive/folders/1PS_jSleMmVYBiFjBvqKzbdw2Edin-5Fr?usp=sharing
    ![Google Drive répot](https://github.com/user-attachments/assets/c4b52474-6658-4b23-93bd-cd00f2ee007e)
 6.⚠️ ⚠️ ⚠️ Ce fichier 'projet-v01' contient des dépendances. Vous devez simplement exécuter la commande suivante : ⚠️ ⚠️ ⚠️
+le lien de projet avec des dépendances : [https://drive.google.com/file/d/1GNLHKd8fX2TInDrTWnl1-tYx2ieZ20X3/view?usp=sharing]
      ![projet avec des pendences](https://github.com/user-attachments/assets/ea68bea8-1c12-4963-8399-c2379882bf51)
    ```bash
    streamlit run app.py
